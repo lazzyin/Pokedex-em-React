@@ -1,0 +1,37 @@
+/*.App{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-color: #fafafa;
+  
+  min-height: 100vh;
+}
+.NavBar{
+  background-color:rgb(245, 28, 28) !important;
+  height:25px;
+  text-align:center;
+  font-weight:bold;
+}
+.NavBar .Titulo{
+  color:white;
+}
+.container{
+  display:flex;
+}
+.cards{
+  display:flex;
+  border:1px solid;
+  margin-left:10px;
+  
+  
+}
+.card{
+  display:flex;
+  width:18rem;
+  flex-direction:column;
+}
+.card-header{
+  display:flex;
+  
+  
+}*/
